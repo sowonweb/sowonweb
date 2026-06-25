@@ -9,7 +9,7 @@
 ## 🚀 주요 전문 분야 (Areas of Expertise)
 
 *   **테크니컬 SEO & 구조화 데이터**: 구글 검색 봇이 비즈니스 정보를 명확히 학습하도록 돕는 `JSON-LD` 스키마 마크업 설계 및 시맨틱 HTML 가이드라인 최적화.
-*   **AEO & GEO 컨설팅**: ChatGPT, Gemini, Perplexity, Naver Cue: 등 AI 답변 엔진과 생성형 검색 환경에서 브랜드 신뢰도와 인용 빈도를 극대화하는 인지 엔진 최적화(AEO/GEO).
+*   **AEO & GEO(Generative Engine Optimization) 컨설팅**: ChatGPT, Gemini, Perplexity, Naver Cue: 등 AI 답변 엔진과 생성형 검색 환경에서 브랜드 신뢰도와 인용 빈도를 극대화하는 인지 엔진 최적화(AEO/GEO).
 *   **고성능 CMS 웹 개발**: 워드프레스(WordPress), 카페24(Cafe24), Astro/Next.js 기반의 웹 개발 및 구글 코어 웹 바이탈(Core Web Vitals) 100점 목표 성능 튜닝.
 *   **사용자 중심 테마 및 맞춤형 솔루션 개발**: 업무 효율성 향상과 직관적인 사용자 경험(UX)을 최우선으로 고려한 고성능 웹 테마 및 독자적인 비즈니스 솔루션을 설계·개발합니다. (워드프레스, 카페24, 그누보드, Node.js 기반 솔루션 전문)
 *   **AI 기반 자동화 솔루션 및 플러그인·앱 개발**: 인공지능(AI) 모델을 결합한 비즈니스 프로세스 자동화(RPA) 소프트웨어 독자 개발 및 WordPress 플러그인, 독립형 웹 모듈, 크로스 플랫폼 애플리케이션 개발을 수행합니다.
