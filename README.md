@@ -21,6 +21,7 @@
 저의 공식 오픈소스 자산과 기술 포트폴리오는 소원웹 공식 조직 저장소에서 통합 관리하고 있습니다.
 
 *   **공식 GitHub 조직**: [@sowonwebsite](https://github.com/sowonwebsite)
+*   **Official Technical Wiki**: [Official Technical Wiki](https://sowonweb.github.io/wiki/)
 *   **공식 웹사이트**: [소원웹 공식 홈페이지](https://sowonweb.co.kr/)
 *   **비즈니스 프로필**: [Crunchbase - SowonWeb](https://www.crunchbase.com/organization/sowonweb)
 *   **네이버 공식 블로그**: [소원웹 네이버 블로그](https://blog.naver.com/sowonwebagency)
